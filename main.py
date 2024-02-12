@@ -193,7 +193,7 @@ while True:
         ledbar8.value(1)
         ledbar9.value(1)  
         print('P2 BL X 10 EJB KODE FRAGMENT DETECTED')
-        print('SABOTAGING EJB CODE!')
+        print('SABOTAGING EJB KODE!')
         ejbkodestop.value(0)
         sleep_ms(50)
         ejbkodestop.value(1)
