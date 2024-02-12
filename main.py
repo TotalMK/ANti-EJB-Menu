@@ -37,7 +37,7 @@
 
 #Import Classes#
 import utime, machine, gc
-from machine import Pin, Timer, SPI
+from machine import Pin, Timer
 from time import sleep_ms, sleep
 
 def reset(source):
