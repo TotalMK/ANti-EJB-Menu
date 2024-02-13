@@ -73,7 +73,7 @@ print('PLAYER 2 BL COUNTER IS CURRENTY: {}.'.format(counter_p2bl))
 p2_bl_button = Pin(15, Pin.IN, Pin.PULL_UP)
 
 #GPIO Devices Config#
-ejbkodestop = Pin(28, Pin.OUT, Pin.PULL_UP) #P2 BL
+ejbkodestop = Pin(18, Pin.OUT, Pin.PULL_UP) #P2 BL
 ejbkodestop.value(1)
 
 #EJB Kode Intensity /10
